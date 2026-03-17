@@ -78,15 +78,15 @@ The dashboard follows a multi-page layout with interactive filtering and navigat
 
 ### Sales Dashboard
 
-![Sales Dashboard](images/sales.png)
+![Sales Dashboard](Sales.png)
 
 ### Profit Dashboard
 
-![Profit Dashboard](images/profit.png)
+![Profit Dashboard](Profit.png)
 
 ### Demographics Dashboard
 
-![Demographics Dashboard](images/demographics.png)
+![Demographics Dashboard](Demo.png)
 
 ---
 

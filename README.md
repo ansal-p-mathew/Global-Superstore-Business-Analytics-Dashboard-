@@ -1,4 +1,4 @@
-#Global Superstore Performance Analysis
+# Global Superstore Performance Analysis
 ## Overview
 
 This project presents an interactive Power BI dashboard built using the Global Superstore dataset.
